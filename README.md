@@ -1,16 +1,25 @@
-# repsoft_assignment
+# RepSoft Assignment App
 
-A new Flutter project.
+This Flutter application is designed to manage PG (Paying Guest) accommodations. It provides features such as meal selection, room and floor details, and rent status updates.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dropdown menus for selecting meals (breakfast, lunch, dinner).
+- Display details about PG rooms and floors.
+- Show information on rent status (members paid/unpaid).
+- Intuitive UI with clean and modular components.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/repsoft_assignment.git
